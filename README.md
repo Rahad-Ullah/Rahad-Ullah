@@ -26,6 +26,13 @@
 ![Mongodb](https://img.shields.io/badge/Mongodb-16.x-pink)
 ![Tailwind](https://img.shields.io/badge/Tailwind-16.x-lightblue)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-16.x-skyblue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahad-Ullah)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahad-Ullah&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rahad-Ullah)  
+
 ### Current Overview
 - 👋 Hi, I’m Rahad Ullah
 - 👀 I’m interested in Web Technology
