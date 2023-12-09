@@ -9,9 +9,9 @@
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-16.x-blue)
-![Node](https://img.shields.io/badge/Node-16.x-blue)
-![Express](https://img.shields.io/badge/Express-16.x-blue)
-![Mongodb](https://img.shields.io/badge/Mongodb-16.x-blue)
+![Node](https://img.shields.io/badge/Node-green)
+![Express](https://img.shields.io/badge/Express-16.x-gray)
+![Mongodb](https://img.shields.io/badge/Mongodb-16.x-green)
 ### Current Overview
 - 👋 Hi, I’m Rahad Ullah
 - 👀 I’m interested in Web Technology
