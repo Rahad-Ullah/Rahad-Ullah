@@ -11,8 +11,6 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahad-Ullah&show_icons=true&count_private=true)  
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahad-Ullah)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Rahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
 </div>
 
 ### Technologies that I'm working with
@@ -28,12 +26,14 @@
 </div>
     
 ### Tech Stack
-![React](https://img.shields.io/badge/React-16.x-blue)
-![Mongodb](https://img.shields.io/badge/Mongodb-16.x-green)
-![Express](https://img.shields.io/badge/Express-16.x-orange)
-![Mongodb](https://img.shields.io/badge/Mongodb-16.x-pink)
-![Tailwind](https://img.shields.io/badge/Tailwind-16.x-lightblue)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-16.x-skyblue)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
 ### Current Overview
@@ -42,6 +42,11 @@
 - 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking for a full time job
 - 📫 Reach me throw email
+
+<div>
+  
+    [![Rahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
+</div>
 
 <!---
 Rahad-Ullah/Rahad-Ullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
