@@ -8,10 +8,10 @@
 </div>
 
 ### Technologies that I'm working with
-<div align="center">
+<div align="center" margin="10px">
   <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
   <img alt="Express" title="Express" height="48" width="48" src="https://cdn.simpleicons.org/express">
-  <img alt="Node" title="Node" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
+  <img alt="Node" title="Node" height="48" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
   <img alt="Mongodb" title="Mongodb" height="48" width="48" src="https://cdn.simpleicons.org/mongodb">
   <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript">
   <img alt="Tailwind" title="Tailwind" height="48" width="48" src="https://cdn.simpleicons.org/tailwindcss">
