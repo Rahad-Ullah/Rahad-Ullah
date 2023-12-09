@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://api.githubtrends.io/user/svg/Rahad-Ullah/langs?time_range=one_year&theme=classic" alt="Banner">
 </div>
-https://api.githubtrends.io/user/svg/Rahad-Ullah/langs?time_range=one_year&theme=classic
+
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-16.x-blue)
 ![Node](https://img.shields.io/badge/Node-16.x-green)
