@@ -6,7 +6,7 @@
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahad-Ullah&theme=transparent" alt="GitHub Streak" /></a>
 </div>
-<div align="center" width="80%">
+<div align="center">
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahad-Ullah&show_icons=true&count_private=true)  
 
