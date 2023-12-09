@@ -12,6 +12,8 @@
 ![Node](https://img.shields.io/badge/Node-16.x-green)
 ![Express](https://img.shields.io/badge/Express-16.x-orange)
 ![Mongodb](https://img.shields.io/badge/Mongodb-16.x-pink)
+![Tailwind](https://img.shields.io/badge/Tailwind-16.x-pink)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-16.x-pink)
 ### Current Overview
 - 👋 Hi, I’m Rahad Ullah
 - 👀 I’m interested in Web Technology
