@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rahad-Ullah/Rahad-Ullah/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner%20(1).gif" alt="Banner">
 </div>
+
 ### Current States
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rahad-Ullah&theme=transparent)](https://git.io/streak-stats)
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahad-Ullah&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
 ### Tech Stack
-
 
 ### Current Overview
 - 👋 Hi, I’m Rahad Ullah
