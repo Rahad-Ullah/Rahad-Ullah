@@ -6,6 +6,11 @@
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahad-Ullah&theme=transparent" alt="GitHub Streak" /></a>
 </div>
+<div align="center" width="80%">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahad-Ullah&show_icons=true&count_private=true)  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahad-Ullah)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ### Technologies that I'm working with
 <div align="center" margin="10px">
@@ -27,11 +32,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-16.x-lightblue)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-16.x-skyblue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahad-Ullah)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahad-Ullah&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rahad-Ullah)  
 
 ### Current Overview
 - 👋 Hi, I’m Rahad Ullah
