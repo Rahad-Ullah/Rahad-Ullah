@@ -7,6 +7,10 @@
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahad-Ullah&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
+<div align="center">
+  <img src="[https://raw.githubusercontent.com/Rahad-Ullah/Rahad-Ullah/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner%20(1).gif](https://api.githubtrends.io/user/svg/Rahad-Ullah/langs?time_range=one_year&theme=classic)" alt="Banner">
+</div>
+
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-16.x-blue)
 ![Node](https://img.shields.io/badge/Node-16.x-green)
