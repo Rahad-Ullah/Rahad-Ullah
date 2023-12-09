@@ -39,13 +39,13 @@
 ### Current Overview
 - 👋 Hi, I’m Rahad Ullah
 - 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking for a full time job
-- 📫 Reach me throw email
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I love to learn newest web technologies
+- 📫 Reach me at myemail.abc20@gmail.com
 
 <div>
   
-    [![Rahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
+[![Rahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
 </div>
 
 <!---
