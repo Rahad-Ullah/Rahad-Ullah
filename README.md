@@ -3,13 +3,17 @@
 </div>
 
 ### Current States
-
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahad-Ullah&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
 ### Tech Stack
-
+- Frontend: [React](https://reactjs.org/)
+- Backend: [Node.js](https://nodejs.org/)
+- Database: [MongoDB](https://www.mongodb.com/)
+- CSS Framework: [Tailwind CSS](https://tailwindcss.com/)
+- Version Control: [Git](https://git-scm.com/)
+![React](https://img.shields.io/badge/React-16.x-blue)
 ### Current Overview
 - 👋 Hi, I’m Rahad Ullah
 - 👀 I’m interested in Web Technology
