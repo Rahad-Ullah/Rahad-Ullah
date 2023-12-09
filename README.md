@@ -11,6 +11,10 @@
   <img src="https://api.githubtrends.io/user/svg/Rahad-Ullah/langs?time_range=one_year&theme=classic" alt="Banner">
 </div>
 
+### Technologies that I'm working with
+ <a href="https://www.linkedin.com/in/peterthehan">
+    <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react"></a>
+    
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-16.x-blue)
 ![Node](https://img.shields.io/badge/Node-16.x-green)
