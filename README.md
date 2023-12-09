@@ -15,12 +15,11 @@
 <div align="center">
   <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
   <img alt="Express" title="Express" height="48" width="48" src="https://cdn.simpleicons.org/express">
-  <img alt="Node" title="Node" height="48" width="48" src="https://cdn.simpleicons.org/nodejs">
+  <img alt="Node" title="Node" height="48" width="48" src="https://nodejs.org/static/images/logo.svg">
   <img alt="Mongodb" title="Mongodb" height="48" width="48" src="https://cdn.simpleicons.org/mongodb">
   <img alt="Tailwind" title="Tailwind" height="48" width="48" src="https://cdn.simpleicons.org/tailwindcss">
   <img alt="DaisyUI" title="DaisyUI" height="48" width="48" src="https://cdn.simpleicons.org/daisyui">
   <img alt="Firebase" title="Firebase" height="48" width="48" src="https://cdn.simpleicons.org/firebase">
-  <img alt="JWT" title="JWT" height="48" width="48" src="https://cdn.simpleicons.org/jsonwebtoken">
 </div>
     
 ### Tech Stack
