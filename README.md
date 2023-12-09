@@ -7,16 +7,13 @@
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahad-Ullah&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center">
-  <img src="https://api.githubtrends.io/user/svg/Rahad-Ullah/langs?time_range=one_year&theme=classic" alt="Banner">
-</div>
-
 ### Technologies that I'm working with
 <div align="center">
   <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
   <img alt="Express" title="Express" height="48" width="48" src="https://cdn.simpleicons.org/express">
-  <img alt="Node" title="Node" height="48" width="48" src="https://nodejs.org/static/images/logo.svg">
+  <img alt="Node" title="Node" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
   <img alt="Mongodb" title="Mongodb" height="48" width="48" src="https://cdn.simpleicons.org/mongodb">
+  <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript">
   <img alt="Tailwind" title="Tailwind" height="48" width="48" src="https://cdn.simpleicons.org/tailwindcss">
   <img alt="DaisyUI" title="DaisyUI" height="48" width="48" src="https://cdn.simpleicons.org/daisyui">
   <img alt="Firebase" title="Firebase" height="48" width="48" src="https://cdn.simpleicons.org/firebase">
