@@ -8,9 +8,9 @@
 </div>
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/Rahad-Ullah/Rahad-Ullah/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner%20(1).gif](https://api.githubtrends.io/user/svg/Rahad-Ullah/langs?time_range=one_year&theme=classic)" alt="Banner">
+  <img src="https://api.githubtrends.io/user/svg/Rahad-Ullah/langs?time_range=one_year&theme=classic" alt="Banner">
 </div>
-
+https://api.githubtrends.io/user/svg/Rahad-Ullah/langs?time_range=one_year&theme=classic
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-16.x-blue)
 ![Node](https://img.shields.io/badge/Node-16.x-green)
