@@ -2,7 +2,15 @@
   <img src="https://raw.githubusercontent.com/Rahad-Ullah/Rahad-Ullah/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner%20(1).gif" alt="Banner">
 </div>
 
-### Current States
+## Current Overview
+- 👋 Hi, I’m Rahad Ullah
+- 👀 I’m interested in Web Technology
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I love to learn newest web technologies
+- 📫 Reach me at myemail.abc20@gmail.com
+
+
+## Current States
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahad-Ullah&theme=transparent" alt="GitHub Streak" /></a>
 </div>
@@ -10,10 +18,9 @@
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahad-Ullah&show_icons=true&count_private=true)  
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahad-Ullah)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-### Technologies that I'm working with
+## Technologies that I'm working with
 <div align="center" margin="10px">
   <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
   <img alt="Express" title="Express" height="48" width="48" src="https://cdn.simpleicons.org/express">
@@ -25,7 +32,7 @@
   <img alt="Firebase" title="Firebase" height="48" width="48" src="https://cdn.simpleicons.org/firebase">
 </div>
     
-### Tech Stack
+## Tech Stacks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -34,14 +41,6 @@
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-
-### Current Overview
-- 👋 Hi, I’m Rahad Ullah
-- 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I love to learn newest web technologies
-- 📫 Reach me at myemail.abc20@gmail.com
 
 <div>
   
