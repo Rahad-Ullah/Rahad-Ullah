@@ -11,6 +11,8 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahad-Ullah&show_icons=true&count_private=true)  
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahad-Ullah)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Rahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
 </div>
 
 ### Technologies that I'm working with
