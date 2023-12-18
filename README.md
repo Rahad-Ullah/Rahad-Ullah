@@ -7,7 +7,7 @@
 - 👀 I’m interested in Web Technology
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I love to learn newest web technologies
-- 📫 Reach me at myemail.abc20@gmail.com
+- 📫 Reach me at rahadullah10@gmail.com
 
 
 ## Current States
