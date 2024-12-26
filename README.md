@@ -3,12 +3,12 @@
 </div>
 
 ## 👀 Current Overview
-##### 👋 Hi, I’m Rahad Ullah
-##### 🌟 I’m interested in modern web technology.
-##### 🌱 I’m exploring web automation for the web.
-##### 👯 I’m looking to collaborate with a dynamic team.
-##### 💖 I love to learn newest web technologies.
-##### 📫 Reach me at rahadullah10@gmail.com
+#### 👋 Hi, I’m Rahad Ullah
+#### 🌟 I’m interested in modern web technology.
+#### 🌱 I’m exploring web automation for the web.
+#### 👯 I’m looking to collaborate with a dynamic team.
+#### 💖 I love to learn newest web technologies.
+#### 📫 Reach me at rahadullah10@gmail.com
 
 
 ## 📈 Current Stats
