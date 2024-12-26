@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rahad-Ullah/Rahad-Ullah/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner%20(1).gif" alt="Banner">
+  <img src="https://raw.githubusercontent.com/Rahad-Ullah/Rahad-Ullah/refs/heads/main/GitHub%20Profile%20Banner.gif" alt="Banner">
 </div>
 
 ## 👀 Current Overview
