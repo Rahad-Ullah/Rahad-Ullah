@@ -29,8 +29,6 @@
 
 ## 💻 Technologies that I know
 <div align="center" style="max-width: 450px; margin: auto; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; border: 1px solid; background-color: white; padding: 20px; border-radius: 5px;">
-  <img alt="HTML" title="HTML" height="48" width="48" src="https://cdn.simpleicons.org/html5">
-  <img alt="CSS" title="CSS" height="48" width="48" src="https://cdn.simpleicons.org/css3">
   <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript">
   <img alt="TypeScript" title="TypeScript" height="48" width="48" src="https://cdn.simpleicons.org/typescript">
   <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
