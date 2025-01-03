@@ -50,7 +50,7 @@
   <img alt="Vercel" title="Vercel" height="48" width="48" src="https://cdn.simpleicons.org/vercel">
 </div>
     
-## Tech Stacks
+## 🖥️ Tech Stacks
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typeScript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
