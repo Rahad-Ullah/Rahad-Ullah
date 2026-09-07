@@ -17,10 +17,10 @@
 
 ### 🚀 About Me
 
-Full Stack Developer currently building scalable, production-grade web systems and asynchronous backend architectures. Experienced in distributed task queues, low-latency search systems, multi-currency payment workflows, and cloud-native deployments.
+Full Stack Developer currently building scalable, production-grade web systems and asynchronous backend architectures. Experienced in asynchronous task queues, low-latency search systems, multi-currency payment workflows, and cloud-native deployments.
 
 - 💼 **Current Role:** Full Stack Developer at Sparktech Agency (Dhaka, Bangladesh)
-- ⚡ **Backend & Distributed Systems:** Node.js, Express.js, Nest.js, Redis Caching, BullMQ, Elasticsearch
+- ⚡ **Backend Engineering:** Node.js, Express.js, Nest.js, RESTful APIs, BullMQ Task Queues, Elasticsearch
 - 🎨 **Frontend Architecture:** Next.js (SSR), React.js, TypeScript, Redux Toolkit / RTK Query, Tailwind CSS
 - ☁️ **DevOps & Cloud:** AWS (EC2, ECS, Fargate, S3), Docker, Nginx, Linux (Ubuntu), CI/CD (GitHub Actions)
 - 🤖 **AI & Automation:** Agentic workflows, prompt engineering, OpenAI API, Gemini AI, DeepSeek
@@ -67,7 +67,7 @@ Full Stack Developer currently building scalable, production-grade web systems a
 - Engineered a high-efficiency property discovery engine via **Elasticsearch**, enabling geo-distance filtering and real-time faceted search.
 - Built an automated reservation engine integrating **Stripe** and **Chapa** gateways with automated host payouts and webhook validation.
 - Implemented background event processors via **BullMQ** and **Redis** for transactional emails (Brevo SMTP) and state synchronization.
-- Containerized microservices using **Docker** and deployed on **AWS (EC2, S3, CloudWatch)** with continuous CI/CD delivery.
+- Containerized with **Docker** and deployed on **AWS (EC2, S3, CloudWatch)** with continuous CI/CD delivery.
 
 ---
 
