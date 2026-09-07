@@ -74,13 +74,19 @@ Full Stack Developer currently building scalable, production-grade web systems a
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahad-Ullah&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahad-Ullah&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahad-ullah&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rahad-Ullah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rahad-Ullah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages" />
 </p>
+
+---
+
+### 📈 Contribution Graph
+  
+[![Rahad's github activity graph](https://github-readme-activity-graph-dun-alpha.vercel.app/graph?theme=react-dark)](https://github.com/rahad-ullah/github-readme-activity-graph)
 
 ---
 
