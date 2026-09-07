@@ -74,7 +74,7 @@ Full Stack Developer currently building scalable, production-grade web systems a
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahad-ullah&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Rahad-Ullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ Full Stack Developer currently building scalable, production-grade web systems a
 
 ### 📈 Contribution Graph
   
-[![Rahad's github activity graph](https://github-readme-activity-graph-dun-alpha.vercel.app/graph?theme=react-dark)](https://github.com/rahad-ullah/github-readme-activity-graph)
+[![Rahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
 
 ---
 
